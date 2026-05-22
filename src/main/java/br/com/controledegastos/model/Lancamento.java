@@ -31,4 +31,3 @@ public class Lancamento {
     public TipoLancamento getTipo() { return tipo; }
     public void setTipo(TipoLancamento tipo) { this.tipo = tipo; }
 }
-
